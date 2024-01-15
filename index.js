@@ -71,3 +71,5 @@ client.on('messageCreate', async message => {
 });
 
 client.login('MTE5Mzk0Nzg4NjM0NjU2Nzc3Mg.G-QYIJ.XwgrmLwYkOFjgrDLLFKopA12HcM22Qoqr5GK3s');
+// トークン変えてます
+// トークンちょくがきほんとはだめよ
